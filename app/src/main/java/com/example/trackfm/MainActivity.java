@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
             Toast toast = Toast.makeText(getApplicationContext(),"Usuario no permitido",Toast.LENGTH_LONG);
             toast.show();
         }
-        //resultLauncher.launch(new Intent(mGoogleSignInClient.getSignInIntent()));
+        
     }
     private void cerrarSesion() {
         mGoogleSignInClient.signOut().addOnCompleteListener(this,
