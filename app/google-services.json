@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "235326963706",
+    "project_id": "trackfm-41a3e",
+    "storage_bucket": "trackfm-41a3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235326963706:android:225d453fe16f15ec20ee43",
+        "android_client_info": {
+          "package_name": "com.example.trackfm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235326963706-mv12a32sl18jdjreicokj1ifll46j593.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackfm",
+            "certificate_hash": "bebb8174f976ff9336a626b3fb6c42b5d78d8cc5"
+          }
+        },
+        {
+          "client_id": "235326963706-51o8v58opgjo0267q9475389ks91uamj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmy3H9E4VvmLHHcI5aADQcE_TLT3PIvxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235326963706-51o8v58opgjo0267q9475389ks91uamj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
